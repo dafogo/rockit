@@ -2,11 +2,10 @@
 Rockit Program Material gathered by Diego Armando
 
 ## Instrucciones para importar archivo a aplicación Spike para cualquier iPad o Computadora
-https://primelessons.org/en/ProgrammingLessons/BackingUpFiles.pdf
 
 <object data="https://primelessons.org/en/ProgrammingLessons/BackingUpFiles.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://primelessons.org/en/ProgrammingLessons/BackingUpFiles.pdf">
-        <p>/tEnlace a las Instrucciones: <a href="https://primelessons.org/en/ProgrammingLessons/BackingUpFiles.pdf">Download PDF</a>.</p>
+        <p>Enlace a las Instrucciones: <a href="https://primelessons.org/en/ProgrammingLessons/BackingUpFiles.pdf">Descarga el PDF</a>.</p>
     </embed>
 </object>
 
