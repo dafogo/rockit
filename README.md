@@ -6,7 +6,7 @@ https://primelessons.org/en/ProgrammingLessons/BackingUpFiles.pdf
 
 <object data="https://primelessons.org/en/ProgrammingLessons/BackingUpFiles.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://primelessons.org/en/ProgrammingLessons/BackingUpFiles.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://primelessons.org/en/ProgrammingLessons/BackingUpFiles.pdf">Download PDF</a>.</p>
+        <p>/tEnlace a las Instrucciones: <a href="https://primelessons.org/en/ProgrammingLessons/BackingUpFiles.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
