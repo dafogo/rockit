@@ -2,7 +2,7 @@
 Rockit Program Material gathered by Diego Armando
 
 ## Entrenamiento
-_Se espera que las sesiones a continuación de dividan en dos clases por el tiempo que toma a los alumnos y su expertiz, por ahora lo resumí en 8 partes._
+_Se espera que las sesiones a partir del Entrenamiento 5 se dividan en dos clases por el tiempo que toma a los alumnos y su expertiz, por ahora lo resumí en 8 partes._
 
 1. Entrenamiento: https://vigorous-pastry-a87.notion.site/Entrenamiento-1d5fc534c52980f5b244e680b270cfb7?pvs=4
 2. Entrenamiento 2: https://vigorous-pastry-a87.notion.site/Entrenamiento-2-1d5fc534c529801290d1d6f36ee9023f?pvs=4
